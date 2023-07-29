@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrogenTimer.Server", "Serve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DrogenTimer.Shared", "Shared\DrogenTimer.Shared.csproj", "{1F610702-E1A2-45A7-A394-C6BC4ACE525D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrogenTimer.Tests", "DrogenTimer.Tests\DrogenTimer.Tests.csproj", "{AC72456A-1401-4076-8D3F-F16EB25CD6DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1F610702-E1A2-45A7-A394-C6BC4ACE525D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F610702-E1A2-45A7-A394-C6BC4ACE525D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F610702-E1A2-45A7-A394-C6BC4ACE525D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC72456A-1401-4076-8D3F-F16EB25CD6DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC72456A-1401-4076-8D3F-F16EB25CD6DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC72456A-1401-4076-8D3F-F16EB25CD6DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC72456A-1401-4076-8D3F-F16EB25CD6DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
